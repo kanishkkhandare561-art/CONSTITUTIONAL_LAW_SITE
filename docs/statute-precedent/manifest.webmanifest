@@ -1,0 +1,15 @@
+{
+  "name": "Statute & Precedent — IPA 1932 & SOGA 1930",
+  "short_name": "Statute & Precedent",
+  "description": "Recall cards, story chain and full section gists for the Indian Partnership Act, 1932 and the Sale of Goods Act, 1930.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F2EB",
+  "theme_color": "#26231F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
